@@ -1,5 +1,6 @@
 Swedish keyboard layout with additional letters for Arabic romanization based on ALA-LC scheme.
-The file Swedish-ARN.klc must be compiled with MSKLC (Microsoft Keyboard Layout Creater) v1.4, and installed.
+The file Swedish-ARN.klc must be compiled with MSKLC (Microsoft Keyboard Layout Creater) v1.4.
+After creating the setup and DLL files, install the keyboard, then log-out and log-in to use it.
 
 The key "-" in standard Swedish layout has been turned into a dead key.
 Press this key once, then press any of the following keys to get a corresponding character.
